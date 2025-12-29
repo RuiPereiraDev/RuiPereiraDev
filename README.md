@@ -1,5 +1,3 @@
-<img src="assets/avatar/avatar-hood.svg" width="120" height="120" align="left" />
-
 ### 👋 Welcome!
 
 I'm Rui Pereira, a Portuguese Air Traffic Controller & Full-Stack Developer. I focus on building robust back-end systems and diverse software tools, with a strong footprint in the open-source world and the gaming community.
